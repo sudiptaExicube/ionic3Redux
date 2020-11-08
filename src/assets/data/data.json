@@ -1,0 +1,30 @@
+{
+  "allData" : {
+    "eventData" : [
+        {
+          "startDate" : "3 December, 2019",
+          "endDate" : "17 December, 2019",
+          "startTime" : "11:30 AM",
+          "endTime" : "12:30 AM",
+          "name" : "Katara 9th Traditional Dhow Festival",
+          "location" : "Beach 15",
+          "desc": "Traditions Preserved and Renewed.",
+          "image" : "http://www.katara.net/PUBLISHINGIMAGES/RESTAURANTS/KATARA_7TH%20DHOW%20FESTIVAL_WEBSITE%201400X900.JPG?RenditionID=15",
+          "status" : "Free",
+          "type" : "Festival"
+        },
+        {
+          "startDate" : "30 November, 2019",
+          "endDate" : "30 November, 2019",
+          "startTime" : "12:30 PM",
+          "endTime" : "4:30 PM",
+          "name" : "Katara Award For Inventors",
+          "location" : "Building 18",
+          "desc" : "The Katara Award for Inventors is meant to encourage creators to hone their talents and skills.",
+          "image" : "http://www.katara.net/PUBLISHINGIMAGES/KATARA%20INNOVATION%20-%20HOME%20PAGE.JPG?RenditionID=15",
+          "status" : "Register",
+          "type" : "Compititions"
+        }
+      ]
+    }
+}
